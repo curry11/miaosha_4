@@ -1,0 +1,1 @@
+var g_password_salt="abcd1234"
